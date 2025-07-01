@@ -1,0 +1,4 @@
+# Nodejs and Discordjs dependencies 
+node_modules/*
+# Config file with private key
+config.json
